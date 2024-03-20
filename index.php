@@ -12,7 +12,7 @@
     <div class="container mt-5">
         <div class="row">
             <div class="col-md-12">
-                <h2 class="text-center mb-4">Préstamos Registrados</h2>
+                <h2 class="text-center mb-4">Préstamos Registradoss</h2>
                 <table class="table table-striped">
                     <thead>
                         <tr>
