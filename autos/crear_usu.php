@@ -70,8 +70,10 @@
                 <div class="formulario__grupo-input">
                     <select class="formulario__input" name="tipo" id="tipo" required>
                         <option value="">Seleccione un tipo de automóvil</option>
-                        <option value="Sedán">automovil</option>
-                        <option value="SUV">camioneta</option>
+                        <option value="automovil">automovil</option>
+                        <option value="camioneta">camioneta</option>
+                        <option value="moto">moto</option>
+                        
                     </select>
                     <i class="formulario__validacion-estado fas fa-times-circle"></i>
                 </div>
