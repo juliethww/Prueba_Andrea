@@ -23,6 +23,7 @@
                             <th>Km Inicial</th>
                             <th>Fecha Inicio</th>
                             <th>Fecha Fin</th>
+                            <th>Marca</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -54,6 +55,7 @@
                                 echo "<td>" . $row['km_inicial'] . "</td>";
                                 echo "<td>" . $row['fecha_inicio'] . "</td>";
                                 echo "<td>" . $row['fecha_fin'] . "</td>";
+                                echo "<td>" . $row['marca'] . "</td>";
                                 echo "</tr>";
                             }
                         } else {
