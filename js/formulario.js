@@ -95,7 +95,6 @@ inputs.forEach((input) => {
 
 formulario.addEventListener('submit', (e) => {
 	e.preventDefault();
-		var id_prestamo = document.getElementById('id_prestamo').value;
 		var id_cliente = document.getElementById('id_cliente').value;
 		var id_auto = document.getElementById('id_auto').value;
 		var destino = document.getElementById('destino').value;
